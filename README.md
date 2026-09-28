@@ -67,7 +67,7 @@ XML Files
           ▼
     Analytics / BI
 ```
-
+![Sketching](https://github.com/mohamed-elmisery/Data-warehouse-full-etl-python-and-sql/blob/c312e82bdcf4713b5905fff1df748a788de4ab93/image%20(1).png)
 ---
 
 ## 🥉 Bronze Layer
